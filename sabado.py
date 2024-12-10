@@ -103,3 +103,4 @@ valor_maximo_sin_presupuesto = max(resultados)
 
 # Imprimir resultados sin restricciones presupuestarias
 print("Valor máximo de ventas sin presupuesto:", valor_maximo_sin_presupuesto)
+#
